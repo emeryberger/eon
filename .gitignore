@@ -15,3 +15,6 @@
 *.exe
 *.out
 *.app
+
+# Old edited versions of text.
+*.*~
