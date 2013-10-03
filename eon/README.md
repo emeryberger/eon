@@ -22,25 +22,27 @@ Installation Instructions
 Compilation
 -----------
 
-to build Eon:
+To build Eon:
+
 	% export JAVA_HOME="<insert your java 1.5 directory here>"
 	% ant
 
+To build a server manually:
 
-to build a server manually:
-	% mkdir <my server dir> 
+	% mkdir <my server dir>
 	% java -cp ./bin:./lib/jdsl.jar:./lib/javacuplex.jar:lib/getopt.jar \
 		edu.umass.eon.Main [-s] [-d <dot filename>] -r <my server dir> \ 
 		<server-opts> src/apps/webserver/webserver-e
-	*where -s means, "Generate Node Stubs".  If you leave this off, you must
-		write your own nodes.  Stub generation will replace existing node
-		files.
+where `-s` means, "generate node stubs".  If you leave this off, you must
+write your own nodes.  Stub generation will replace existing node files.
 
-to build a server using dommake.py:
-	% ./domake.py <app_name> <destination_folder> <generate stubs? Y/N> <copy imnplementation? Y/N> 
-	where: 
-		- <app_name> is the application name. 
-		- <destination_folder> is the destination folder (must already exist). 
-		- <generate stubs?> indicates whether the existing node files should be replaced with stubs. 
-		- <copy implementation?> indicates whether the existing implementation files should be copied in. 
+To build a server using `dommake.py`:
+
+	% ./domake.py <app_name> <destination_folder> <generate stubs? Y/N> <copy imnplementation? Y/N>
+
+where: 
+	* <app_name> is the application name. 
+	* <destination_folder> is the destination folder (must already exist). 
+	* <generate stubs?> indicates whether the existing node files should be replaced with stubs. 
+	* <copy implementation?> indicates whether the existing implementation files should be copied in. 
 
