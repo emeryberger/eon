@@ -1,3 +1,0 @@
-COMPONENT=Eraser
-include ${MAKERULES}
-

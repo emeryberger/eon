@@ -1,5 +1,0 @@
-COMPONENT=SynWorkLoadSim_telos
-MSG_SIZE=128
-PFLAGS=-I%T/lib/Util -g
-include ../Makerules
-

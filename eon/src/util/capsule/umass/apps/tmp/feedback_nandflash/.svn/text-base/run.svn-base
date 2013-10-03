@@ -1,2 +1,0 @@
-export MOTECOM=serial@/dev/ttyS0:mica2
-java TransData ./data.log

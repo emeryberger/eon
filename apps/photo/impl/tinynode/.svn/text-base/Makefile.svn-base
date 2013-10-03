@@ -1,7 +1,0 @@
-COMPONENT = Runtime
-PFLAGS +=-I%T/lib/TinyRely
-PFLAGS +=-Iruntime
-#MSG_SIZE = 60
-PFLAGS += -DDEFAULT_BAUDRATE=19200
-include ${MAKERULES}
-

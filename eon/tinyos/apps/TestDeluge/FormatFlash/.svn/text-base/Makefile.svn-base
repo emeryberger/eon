@@ -1,3 +1,0 @@
-COMPONENT=Format
-include $(MAKERULES)
-
