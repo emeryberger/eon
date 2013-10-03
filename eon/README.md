@@ -38,11 +38,11 @@ write your own nodes.  Stub generation will replace existing node files.
 
 To build a server using `dommake.py`:
 
-	% ./domake.py <app_name> <destination_folder> <generate stubs? Y/N> <copy imnplementation? Y/N>
+	% ./domake.py <app_name> <destination_folder> <generate stubs? Y/N> <copy implementation? Y/N>
 
 where: 
-	* <app_name> is the application name. 
-	* <destination_folder> is the destination folder (must already exist). 
-	* <generate stubs?> indicates whether the existing node files should be replaced with stubs. 
-	* <copy implementation?> indicates whether the existing implementation files should be copied in. 
+* `<app_name>` is the application name. 
+* `<destination_folder>` is the destination folder (must already exist). 
+* `<generate stubs?>` indicates whether the existing node files should be replaced with stubs. 
+* `<copy implementation?>` indicates whether the existing implementation files should be copied in. 
 
