@@ -1,0 +1,107 @@
+------------------------
+Code Release 
+Quality: late Alpha
+------------------------
+
+This distribution includes:
+- Driver code for the NAND flash
+- The Capsule storage system
+
+
+Directory Structure:
+--------------------
+The umass directory should be placed in contrib/ directory of the TinyOS tree
+
+umass - apps
+      - tos
+            - interfaces
+            - system
+            - lib
+            - platform
+              ...
+
+Applications can be placed in the apps/ tree. The Makefile present in the apps/ directory
+should allow correct code compilation as is.
+
+The sameple applications that should be looked at are StressChkpt and StressTest. The other
+applications present are old test applications some of which may not compile correctly
+as the codebase has undergone extensive modifications -- most of these will be removed for
+the final release.
+
+
+Config:
+-------
+- It is currently configured to use the Mica2 NOR flash directly, or the Telos. To
+  use the NAND flash, comment out "#define PLATFORM_MICA2_NOR" in tos/platform/mica2/platform.h
+  Currently one can use the Mica2 NOR flash or the NAND flash in the same application, but not
+  both -- this will be fixed in the next release.
+
+- Create a sym-link in tos/platform named micaz and mica2dot pointing to the mica2
+  directory. (The codebase for all the 3 platforms is common)
+
+- Each application should have a sizes.h file in its directory which tells the storage system 
+  the number of objects that the system is going to use. Future releases, should hopefully be
+  able to pick up this information at compile-time.
+
+Eccentricities:
+---------------
+1. Most of the objects have an init method - be sure to call these before you start 
+   using the object... all hell might break loose otherwise
+2. Be careful to wire StdControl directly to FalC or the flash driver code
+3. Be careful about the objects that use the parameterized interfaces (ie. xxx[yyy])
+   Look at the wiring of existing applications or ask me  :)
+   [Some of the internal object code uses the interface number to maintain state about
+    the object -- hence, the reason why the interface parameters are important.
+    We are looking at simplifying this]
+4. The storage objects should be initialized in the following order:
+   First, call init on the ChunkStorage component
+   Second, call init on all the objects
+   Third, call init on the Transaction component
+   Fourth, call init on the RootDirectory component
+   Intuition: The root dir component may trigger a rollback if the system had failed;
+    you would want the objects to be correctly initialized before this happens.
+5. The Index needs to be saved by the program before you can checkpoint it. This is 
+   because the index stores everything in an in-memory buffer (to minimize flash 
+   operations), and performing a save operation forces a buffer flush.
+
+Misc:
+-----
+1. Debug currently dumps data to the serial port and minicom can be used to pick that up
+   -- woefully, this is not good to debug any timing issues.
+2. Debug messages can be enabled by uncommenting the appropriate #define in the sizes.h 
+   file that should be present in the application directory.
+3. The application directory should have a sizes.h file in it.
+     -- This is used to specify the number of components that you will use in the system.
+     #define NUM_STACKS 2
+
+     #define NUM_INDEX 2
+
+     #define NUM_STREAMS 1
+
+     #define NUM_CHECKPOINTS 1 
+
+     #define NUM_INDEXES 1
+
+     The next two apply to only indices... Data stored in the index is termed to be at 
+     level 0.
+     /*
+      * This indicates the number of elements in level 1 of the index
+      */
+     #define ARRAY_ELEMENTS_PER_CHUNK 10
+
+     /*
+      * This indicates the number of index elements in level 2 of the index
+      */
+     #define INDEX_ELEMENTS_PER_CHUNK 10
+
+     -- You can enable debugging by defining the debug for the appropriate component
+     #define INDEX_DEBUG
+     #define ARRAY_DEBUG
+     #define CHUNK_DEBUG
+     #define QUEUE_DEBUG
+     #define STACK_DEBUG
+     #define STREAM_DEBUG
+     #define STREAM_INDEX_DEBUG
+     #define CHECKPOINT_DEBUG
+     #define ROOT_DIR_DEBUG
+     #define COMPACT_DEBUG

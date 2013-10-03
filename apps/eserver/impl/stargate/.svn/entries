@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="213"
+   name=""
+   committed-date="2007-11-13T18:47:18.206939Z"
+   url="svn+ssh://sorber@prisms.cs.umass.edu:/svn2/sorber/svn-root/eflux/release/eon-0.3/apps/eserver/impl/stargate"
+   last-author="sorber"
+   kind="dir"
+   uuid="e10c54a3-b31f-0410-8957-ce4572528410"
+   revision="213"/>
+<entry
+   committed-rev="213"
+   name="mImpl.c"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="35ad87589290f6878f3327058decda7d"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="mImpl.h"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="d4ef9458c08b1e985568def08debda40"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="mTypes.h"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="9a3ba5763e558d711637511182f6c5f2"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+</wc-entries>

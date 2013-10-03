@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="213"
+   name=""
+   committed-date="2007-11-13T18:47:18.206939Z"
+   url="svn+ssh://sorber@prisms.cs.umass.edu:/svn2/sorber/svn-root/eflux/release/eon-0.3/eon/src/util/capsule/umass/apps/StressChkpt2/build/telosb"
+   last-author="sorber"
+   kind="dir"
+   uuid="e10c54a3-b31f-0410-8957-ce4572528410"
+   revision="213"/>
+<entry
+   committed-rev="213"
+   name="main.ihex"
+   text-time="2007-11-13T18:46:28.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="29df8481e000cd8a3ffb00c36ca33b46"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="app.c"
+   text-time="2007-11-13T18:46:28.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="c376bc65c6946c4ac2750331c286323c"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="main.exe"
+   text-time="2007-11-13T18:46:28.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="a0a20d4bb414a1648c28340b3b03d59d"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:28.000000Z"/>
+<entry
+   committed-rev="213"
+   name="tos_image.xml"
+   text-time="2007-11-13T18:46:28.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="4b6f79af33ac8df70b3265a3ba04a726"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="ident_flags.txt"
+   text-time="2007-11-13T18:46:28.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="22e48731cbaa5ea2af14d9e4586db366"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+</wc-entries>

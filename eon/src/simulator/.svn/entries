@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="213"
+   name=""
+   committed-date="2007-11-13T18:47:18.206939Z"
+   url="svn+ssh://sorber@prisms.cs.umass.edu:/svn2/sorber/svn-root/eflux/release/eon-0.3/eon/src/simulator"
+   last-author="sorber"
+   kind="dir"
+   uuid="e10c54a3-b31f-0410-8957-ce4572528410"
+   revision="213"/>
+<entry
+   committed-rev="213"
+   name="solar"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="dbba55798dc7ea5d8a41d4a292c132ba"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="consumptionpredictor.h"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="1bcf3e9f8c9c41a015f598f7cd8f1088"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="loadpredictor.h"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="ba06f05421837782a112fc3e7728b83a"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="solarmodel.py"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="c00c91bbae7c3f864ca76c1f67562bd3"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:24.000000Z"/>
+<entry
+   committed-rev="213"
+   name="evaluator.h"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="50a95bf1bb2b2f9e04cabd6087421c8a"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="ewmapredictor.h"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="e7bd7362eb99856834e73f71360738f7"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="energypredictor.h"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="9c397ce8c6ec119de7d3b14d9960e476"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="costs"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="ca2090e33c79c126155d2b8f25ef052d"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="makereqs.py"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="c3aabf105b81554ce4eebef07c7a7141"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="omniconsumptionpredictor.h"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="258bf1428e491e327ed69d356128c415"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="omniloadpredictor.h"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="a4d525fefa85338508c4cacc154f3af5"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="simulator.h"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="3f0b68782f6c616487aac37dd03ee7c0"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="pgm_util.h"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="c93fe63c743b95d29eadd70007b67729"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="reqs"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="eaebf52f7d0dbbe3541c26a243477d41"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="omnienergypredictor.h"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="9ccc374fcca8b390764867a9c63562a4"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+</wc-entries>

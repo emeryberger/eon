@@ -1,0 +1,22 @@
+README for umass-nand/apps/NandFlash
+Author/Contact: pjd@cs.umass.edu
+$Id:$
+
+Description:
+
+This is a simple application that provides a command line interface
+over the serial port to read, write, and erase NAND flash.
+
+Note that commands are not echoed. All hex values must be in upper
+case. Commands are:
+
+I      - initialize flash. (must be called first)
+v XX   - set <data value> to XX
+w XXXX - write 528 bytes <data value> to page XXXX
+W XXXX - write incrementing values (starting at <data value>) to page XXXX
+r XXXX - read page XXXX, verify that all bytes = <data value>
+z XXX  - print bytes XXX to XXX+15 from last page read with 'r'
+R XXXX - read page XXXX, print unique bytes
+e XXXX - erase block containing page XXXX
+i      - read flash ID code
+

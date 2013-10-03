@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="213"
+   name=""
+   committed-date="2007-11-13T18:47:18.206939Z"
+   url="svn+ssh://sorber@prisms.cs.umass.edu:/svn2/sorber/svn-root/eflux/release/eon-0.3/eon/src/util/capsule/umass/tos/system"
+   last-author="sorber"
+   kind="dir"
+   uuid="e10c54a3-b31f-0410-8957-ce4572528410"
+   revision="213"/>
+<entry
+   committed-rev="213"
+   name="ChunkStorageC.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="1d4df8c4b1ac1c1600ff4f8b887f76fc"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:55.000000Z"/>
+<entry
+   committed-rev="213"
+   name="ArrayC.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="97e5778aaf80bff8ac4f4de6cf36302d"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:55.000000Z"/>
+<entry
+   committed-rev="213"
+   name="Crc8C.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="becaf8fd3a689df11a0e44207aec2775"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:55.000000Z"/>
+<entry
+   committed-rev="213"
+   name="RootDirectoryM.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="732cb9fb547e96ab005004e73cff7979"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:30.000000Z"/>
+<entry
+   committed-rev="213"
+   name="StreamIndexC.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="5be61fe0b215a9f707a38d8490ec9d35"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:55.000000Z"/>
+<entry
+   committed-rev="213"
+   name="QueueC.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="64509b99bd542c65d7d6c921ced3d6bf"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:55.000000Z"/>
+<entry
+   committed-rev="213"
+   name="CompactionAbsorbC.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="03c0993e5bc4d11abda1717f032e0a94"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:55.000000Z"/>
+<entry
+   committed-rev="213"
+   name="StackC.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="db1f06e7c26eaec1e537045f03cfb3e7"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:55.000000Z"/>
+<entry
+   committed-rev="213"
+   name="CheckpointC.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="2e53b4db9fef4f330ad3edb1c6d6b41c"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:30.000000Z"/>
+<entry
+   committed-rev="213"
+   name="IndexC.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="f31adbde9c8450a690ac67f2dbc71d71"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:55.000000Z"/>
+<entry
+   committed-rev="213"
+   name="RootDirectoryC.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="0172b552f7cf74c3b1506a92a112544c"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:55.000000Z"/>
+<entry
+   committed-rev="213"
+   name="StreamC.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="93d6af4cd10562d6ba6982ae4f7dcb26"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:55.000000Z"/>
+</wc-entries>

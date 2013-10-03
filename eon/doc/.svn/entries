@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="213"
+   name=""
+   committed-date="2007-11-13T18:47:18.206939Z"
+   url="svn+ssh://sorber@prisms.cs.umass.edu:/svn2/sorber/svn-root/eflux/release/eon-0.3/eon/doc"
+   last-author="sorber"
+   kind="dir"
+   uuid="e10c54a3-b31f-0410-8957-ce4572528410"
+   revision="213"/>
+<entry
+   committed-rev="213"
+   name="demo.aux"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="e46572de953598db294ebe1eec0e2a5d"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="demo.bbl"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="215817267d2dc05d11aeee84a5f4ba72"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="latex8.sty"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="b677c7b0074f481f290aa9f93ec8774d"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="Latex8.txt"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="6686b3e2da01e6a7b3097c01071d883d"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="demo.tex"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="d59621f96bbb0395f93baf733ccddea1"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="deploynotes.txt"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="c2e4e7391f19aeec81b7651f44023d44"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   name="dtn"
+   kind="dir"/>
+<entry
+   committed-rev="213"
+   name="Latex8.ps"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="e194698ef7f38dd0ec48746fc9fdd59d"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="demo.blg"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="b51aec9501958c9fcd1b24250afe2242"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="server-e"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="bdd785d2c0444d1cfc08d104b1c4fcf5"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="latex8.bst"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="905972de4c2ed361a9e19361a92cf806"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="demo.pdf"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="abdeb951e7770a90079b525f4ddb975b"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:24.000000Z"/>
+<entry
+   committed-rev="213"
+   name="outline.txt"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="dd6fcc9a35c289fb64e0e0a5d830179d"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name=".log"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="db15868c3da16e6460ec76f1d873a366"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="jsorber-eflux.pdf"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="c43dc2a042a42212ac47d228980a9b78"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:24.000000Z"/>
+<entry
+   committed-rev="213"
+   name="eflux2.bib"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="021513ce95a464b268f7ce926be8ff30"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="latex8.bib"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="298e2771ccefc9e04228d0c8fd2fe7d4"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="demo.txt"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="61e17e971baae4754165e9a2d87aaf87"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   name="sigstyle"
+   kind="dir"/>
+<entry
+   committed-rev="213"
+   name="demo.log"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="c8cab227925a5052aef3b9819926b0aa"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="latex8.tex"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="05319a5b3080f03e9f9f8da3cdcba09f"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   name="fig"
+   kind="dir"/>
+<entry
+   committed-rev="213"
+   name="LanguageDescription.txt"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="039ee0ac728c5f3cbf4f247b465787ee"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="mTypes.h"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="a6e64fc5a2b449f270703e005d084c8d"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="turtles.xls"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="7103f613ed8fbc434660aa4eefc9ff64"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:24.000000Z"/>
+<entry
+   committed-rev="213"
+   name="energyprediction.tex"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="cb13d4cdc90fe68d7bfa7a0ce0bb3061"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="eflux.bib"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="1c97082b5d6dc86581d0a8ae074caea4"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+</wc-entries>

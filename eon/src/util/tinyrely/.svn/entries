@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="213"
+   name=""
+   committed-date="2007-11-13T18:47:18.206939Z"
+   url="svn+ssh://sorber@prisms.cs.umass.edu:/svn2/sorber/svn-root/eflux/release/eon-0.3/eon/src/util/tinyrely"
+   last-author="sorber"
+   kind="dir"
+   uuid="e10c54a3-b31f-0410-8957-ce4572528410"
+   revision="213"/>
+<entry
+   committed-rev="213"
+   name="RelySend.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="3209672211adba3a470bf99f6ddffdc7"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="TinyStream.h"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="c47ae2c82e1fd4c54044c0ed5b5468b8"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="UARTComm.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="2813c5ebe4bd76cf953ab9250262f269"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="StreamRead.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="5fa0e91410129441af9e91f605a39247"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="UARTTinyRelyM.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="e5038415540f204ff7ff7ba6704cd5fb"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="Connect.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="f44c84dcf3af75b8d173b51aa32b962a"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="UARTTinyStream.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="aa5752071747c6d53fcc6dfcba046e90"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="RadioTinyStreamM.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="7afeca8fc6e66037b294d67b999aade1"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="RelyRecv.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="603978c947bdbca816bdd45121beca45"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="TinyRelyM.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="354d1dde94cb52f5cf6ff21529af3dde"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="RadioAMStandard.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="d14dea9f6465ca3318dad4bfa29c5bd4"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="RadioTinyRely.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="0b934c1ae5218bf6e6550430c5256fcb"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="TinyStream.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="8da54ce55a27542b244beea8c2ee12ae"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="TinyRelyM.inc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="bdc948e88d99527af57867960dbc4235"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="TinyRely.h"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="67464abf244637e95c63959f52bf98d0"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="StreamWrite.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="aebd5bc961031fe1c2e4c4e7a0ae9b9d"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="UARTTinyStreamM.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="d5ebcbcc9a611cc41062ea7521ec8ac6"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="RadioComm.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="5cf3c3d6176ccce6802c1e7159ca2360"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="UARTAMStandard.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="1dde21c3752a68c82082e9acf524ae59"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="RadioTinyRelyM.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="37cb823a60f7fcf017c21e6c2bb42807"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="UARTTinyRely.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="60de6bede6fb0d94be40e2f79bbbebda"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="TinyStreamM.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="6f4fd3b2eaf71b0f6f278373dd936b71"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="SimpleRelyPacket.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="43dd9ce63f483d744e0dc91f0424f9b6"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="RadioTinyStream.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="1167ce2d44cfb375efc2190473f0d383"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="TinyRely.nc"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="fc7bcdec04f0275719da6bc833d832a0"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+</wc-entries>

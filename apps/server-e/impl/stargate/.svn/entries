@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="213"
+   name=""
+   committed-date="2007-11-13T18:47:18.206939Z"
+   url="svn+ssh://sorber@prisms.cs.umass.edu:/svn2/sorber/svn-root/eflux/release/eon-0.3/apps/server-e/impl/stargate"
+   last-author="sorber"
+   kind="dir"
+   uuid="e10c54a3-b31f-0410-8957-ce4572528410"
+   revision="213"/>
+<entry
+   committed-rev="213"
+   name="mImpl.c"
+   text-time="2007-11-13T18:46:23.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="7d5acbe4880668ac04a5c135b5c826f1"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:45.000000Z"/>
+<entry
+   committed-rev="213"
+   name="ServerE.h"
+   text-time="2007-11-13T18:46:23.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="3bd74e37febeee1ca634726bb51abf0c"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:45.000000Z"/>
+<entry
+   committed-rev="213"
+   name="usermarshall.c"
+   text-time="2007-11-13T18:46:23.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="92447549d7282dcdf7f7951cbf0e7a84"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:45.000000Z"/>
+<entry
+   committed-rev="213"
+   name="mTypes.h"
+   text-time="2007-11-13T18:46:23.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="984c13f32842c1498a0aba772f29c7fa"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:45.000000Z"/>
+<entry
+   committed-rev="213"
+   name="usermarshall.h"
+   text-time="2007-11-13T18:46:23.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="ff942555e26f4219a9c23c0d557a5833"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:45.000000Z"/>
+<entry
+   committed-rev="213"
+   name="userstructs.h"
+   text-time="2007-11-13T18:46:23.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="236995a46987e920b117143b234ac885"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:45.000000Z"/>
+</wc-entries>

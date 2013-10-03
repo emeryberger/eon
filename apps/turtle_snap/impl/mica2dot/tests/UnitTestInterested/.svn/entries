@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="213"
+   name=""
+   committed-date="2007-11-13T18:47:18.206939Z"
+   url="svn+ssh://sorber@prisms.cs.umass.edu:/svn2/sorber/svn-root/eflux/release/eon-0.3/apps/turtle_snap/impl/mica2dot/tests/UnitTestInterested"
+   last-author="sorber"
+   kind="dir"
+   uuid="e10c54a3-b31f-0410-8957-ce4572528410"
+   revision="213"/>
+<entry
+   committed-rev="213"
+   name="UnitTestInterestedM.nc"
+   text-time="2007-11-13T18:46:23.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="d4f54ff3b33d1bd27f17342b1579dede"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:45.000000Z"/>
+<entry
+   committed-rev="213"
+   name=".testconfig"
+   text-time="2007-11-13T18:46:23.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="4a96363fffae7aa19f24a6a3ef85d3d4"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:45.000000Z"/>
+<entry
+   committed-rev="213"
+   name="RunUnitTestsM.nc"
+   text-time="2007-11-13T18:46:23.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="9c391d2c917e2f15b8e20d54e94eaa1f"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:45.000000Z"/>
+<entry
+   committed-rev="213"
+   name="UnitTestInterested.nc"
+   text-time="2007-11-13T18:46:23.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="e16a03205519ebbdaaf4b95f7eed273c"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:45.000000Z"/>
+<entry
+   committed-rev="213"
+   name="RunUnitTests.nc"
+   text-time="2007-11-13T18:46:23.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="46d058cbe0dcf82f7979824a5d8106de"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:45.000000Z"/>
+<entry
+   committed-rev="213"
+   name="Makefile"
+   text-time="2007-11-13T18:46:23.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="aad1ab1714071e93974df66b2f287b03"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:45.000000Z"/>
+</wc-entries>

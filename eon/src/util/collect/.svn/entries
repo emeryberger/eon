@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="213"
+   name=""
+   committed-date="2007-11-13T18:47:18.206939Z"
+   url="svn+ssh://sorber@prisms.cs.umass.edu:/svn2/sorber/svn-root/eflux/release/eon-0.3/eon/src/util/collect"
+   last-author="sorber"
+   kind="dir"
+   uuid="e10c54a3-b31f-0410-8957-ce4572528410"
+   revision="213"/>
+<entry
+   committed-rev="213"
+   name="sfsource.h"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="04252f4a09bcd2971d1dfd7221933382"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="lastday.txt"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="ae4ececea75ef0c6002fa6df129386fa"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="seriallisten.c"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="a5a37a2d7d28d07fc96b96f918ee12da"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sf_lo_radio"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="fbeac279a1d9f50c9466cc190b92435f"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:26.000000Z"/>
+<entry
+   committed-rev="213"
+   name="serialsource.c"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="0451fa41b89a4b46d35484d8d1b0b085"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sfcomm"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="1db5ac7e9c08e89db2e812f9092c8e44"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:26.000000Z"/>
+<entry
+   committed-rev="213"
+   name="btogps.py"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="4992f92b62a92c8345026589cedfe9df"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:26.000000Z"/>
+<entry
+   committed-rev="213"
+   name="serialsource.h"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="6ac0afd5592c86f757f0c745321dc689"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sflisten"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="52999b7296b2875340f72c4150f2d807"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:26.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sfforce"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="0d63da26c65093fd6f07708346bee67b"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:26.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sf_hi_radio.c"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="8242658d2f85fda3cc09ad8cb37f6974"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="list.txt"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="9fd55b3d0902598012387c25b46fd0d4"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sf.c"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="0612ebeaa74d7d7b35d525c610acfd0c"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sfcollect.c"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="2ff2ad1225c51e285ad5d45b0fd88e4d"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="collect.bash"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="8d24a432b0fd4dc5d84d04750b68d693"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:26.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sf_lo_radio.c"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="69bb14fcafc7d13ff045fff50305396c"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="btopwr.py"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="aef70c2c92ade6102f7d736f2739742e"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:26.000000Z"/>
+<entry
+   committed-rev="213"
+   name="platform.c"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="0c36d41f91045b70269d5c5597229ee6"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sfcomm.c"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="55178bb724d03cae0ebc7963a93c55dc"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sf_hi_radio"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="8532162627d4b418a6258e01511cc9ab"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:26.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sf"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="242725d71bdd35f716aa00639d4d0727"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:26.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sfforce.c"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="191a4e6adf7034025796cd1889854ea9"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sflisten.c"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="48c04a376125656316351564d0771ac9"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="platform.h"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="52656adb13a2c4300bfb6229a5e67b40"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sfsource.c"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="1dacfa04ea92a5ab571e2539e311d265"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="Makefile"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="378840a4bf1defb5a691f0f216ccd448"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="parsebundles.py"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="9a052a6e6d3525a935e14b8f1e13a5d1"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:26.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sfcollect"
+   text-time="2007-11-13T18:46:26.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="6e0d67d59f06da8c773886ae98e43a0d"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:26.000000Z"/>
+</wc-entries>

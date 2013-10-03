@@ -1,0 +1,4 @@
+COMPONENT=Write
+include ../Makerules
+
+

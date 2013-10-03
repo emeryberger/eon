@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="213"
+   name=""
+   committed-date="2007-11-13T18:47:18.206939Z"
+   url="svn+ssh://sorber@prisms.cs.umass.edu:/svn2/sorber/svn-root/eflux/release/eon-0.3/eon/src/util/capsule/umass/tos/platform/pc"
+   last-author="sorber"
+   kind="dir"
+   uuid="e10c54a3-b31f-0410-8957-ce4572528410"
+   revision="213"/>
+<entry
+   committed-rev="213"
+   name="PageNANDC.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="df1eef2c23bb2ad1b325fcb10b1ac4c2"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:55.000000Z"/>
+<entry
+   committed-rev="213"
+   name="FalC.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="313a25c8a30a49313584bb7efb0e781e"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:55.000000Z"/>
+<entry
+   committed-rev="213"
+   name="nand.h"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="268c10e073f6d24591caf7a407ef68d4"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:55.000000Z"/>
+<entry
+   committed-rev="213"
+   name="FlashM.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="6906619d16999e13352a3efc56587e00"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:55.000000Z"/>
+<entry
+   committed-rev="213"
+   name="PageNANDM.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="98d83c3eded1cd6ce2339ccbf0b12a5a"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:55.000000Z"/>
+<entry
+   committed-rev="213"
+   name="NANDFlashM.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="cdab905e37a07bbbf16cfc45b05c3e3e"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:55.000000Z"/>
+<entry
+   committed-rev="213"
+   name="platform.h"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="6ad6afc2b0d6ae99c10f5e2de42bb8e4"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:55.000000Z"/>
+</wc-entries>

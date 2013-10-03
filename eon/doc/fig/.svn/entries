@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="213"
+   name=""
+   committed-date="2007-11-13T18:47:18.206939Z"
+   url="svn+ssh://sorber@prisms.cs.umass.edu:/svn2/sorber/svn-root/eflux/release/eon-0.3/eon/doc/fig"
+   last-author="sorber"
+   kind="dir"
+   uuid="e10c54a3-b31f-0410-8957-ce4572528410"
+   revision="213"/>
+<entry
+   committed-rev="213"
+   name="fluxg2.pdf"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="e7831345492e7184e928d409fade345f"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:24.000000Z"/>
+<entry
+   committed-rev="213"
+   name="EnergyStateBlock.vsd"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="90c959048a87609b188f3d38dea29857"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:24.000000Z"/>
+<entry
+   committed-rev="213"
+   name="graph.ps"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="412efc9d1e051816633ef2ea9d91a824"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="graph.dot"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="2a2378150ea82530983ec893175fd5a7"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="energyblock.pdf"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="034dc88e8666954fed9069abe37c6579"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:24.000000Z"/>
+<entry
+   committed-rev="213"
+   name="fluxg.pdf"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="5f018dc3f739023beb023e87581fd380"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:24.000000Z"/>
+<entry
+   committed-rev="213"
+   name="turtle.jpg"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="4fe2f09654af0a55527d3c7ae06348f6"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:24.000000Z"/>
+</wc-entries>

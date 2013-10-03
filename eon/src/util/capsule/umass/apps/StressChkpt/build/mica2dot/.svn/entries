@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="213"
+   name=""
+   committed-date="2007-11-13T18:47:18.206939Z"
+   url="svn+ssh://sorber@prisms.cs.umass.edu:/svn2/sorber/svn-root/eflux/release/eon-0.3/eon/src/util/capsule/umass/apps/StressChkpt/build/mica2dot"
+   last-author="sorber"
+   kind="dir"
+   uuid="e10c54a3-b31f-0410-8957-ce4572528410"
+   revision="213"/>
+<entry
+   committed-rev="213"
+   name="main.srec"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="c6ab098f413fb857f98170fb22ca91a6"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:30.000000Z"/>
+<entry
+   committed-rev="213"
+   name="main.ihex"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="b7ae248a41257c745a2f1ff91c7d0c9f"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="main.exe"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="2dbc3e84fa29ef155e1392b9844c1637"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:30.000000Z"/>
+<entry
+   committed-rev="213"
+   name="tos_image.xml"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="84da75d8c76578127fcb2a84cd60819d"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="ident_flags.txt"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="0e8014561201e426a151ec074fedc3d3"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+</wc-entries>

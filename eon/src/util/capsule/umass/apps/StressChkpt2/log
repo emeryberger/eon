@@ -1,0 +1,209 @@
+StressTestC.nc: In function `write_flush':
+StressTestC.nc:39: interface has no command or event named `string'
+StressTestC.nc: In function `ChunkStorage.writeDone':
+StressTestC.nc:49: interface has no command or event named `string'
+StressTestC.nc: In function `ChunkStorage.flushDone':
+StressTestC.nc:57: interface has no command or event named `string'
+StressTestC.nc: In function `ChunkStorage.readDone':
+StressTestC.nc:67: interface has no command or event named `string'
+StressTestC.nc: In function `check_checkpt':
+StressTestC.nc:77: interface has no command or event named `string'
+StressTestC.nc: In function `Checkpoint.checkpointDone':
+StressTestC.nc:87: interface has no command or event named `string'
+StressTestC.nc: In function `check_rollback':
+StressTestC.nc:96: interface has no command or event named `string'
+StressTestC.nc: In function `Checkpoint.rollbackDone':
+StressTestC.nc:106: interface has no command or event named `string'
+StressTestC.nc: In function `check_stream_append':
+StressTestC.nc:115: interface has no command or event named `string'
+StressTestC.nc: In function `Stream.appendDone':
+StressTestC.nc:125: interface has no command or event named `string'
+StressTestC.nc:129: interface has no command or event named `string'
+StressTestC.nc:130: interface has no command or event named `decimal'
+StressTestC.nc:131: interface has no command or event named `string'
+StressTestC.nc:132: interface has no command or event named `decimal'
+StressTestC.nc:133: interface has no command or event named `string'
+StressTestC.nc:134: interface has no command or event named `decimal'
+StressTestC.nc:135: interface has no command or event named `string'
+StressTestC.nc: In function `check_stream_next':
+StressTestC.nc:147: interface has no command or event named `string'
+StressTestC.nc: In function `Stream.nextDone':
+StressTestC.nc:156: interface has no command or event named `string'
+StressTestC.nc:160: interface has no command or event named `string'
+StressTestC.nc:161: interface has no command or event named `decimal'
+StressTestC.nc:162: interface has no command or event named `string'
+StressTestC.nc: In function `Console.input':
+StressTestC.nc:204: interface has no command or event named `string'
+StressTestC.nc:210: interface has no command or event named `string'
+StressTestC.nc:243: interface has no command or event named `string'
+StressTestC.nc: In function `format':
+StressTestC.nc:250: interface has no command or event named `string'
+StressTestC.nc: In function `GenericFlash.eraseDone':
+StressTestC.nc:262: interface has no command or event named `string'
+StressTestC.nc:263: interface has no command or event named `decimal'
+StressTestC.nc:264: interface has no command or event named `string'
+StressTestC.nc:276: interface has no command or event named `string'
+StressTestC.nc: In function `GenericFlash.initDone':
+StressTestC.nc:288: interface has no command or event named `string'
+StressTestC.nc: In function `RootDirectory.initDone':
+StressTestC.nc:309: interface has no command or event named `string'
+StressTestC.nc: In function `RootDirectory.restore':
+StressTestC.nc:322: interface has no command or event named `string'
+../../tos/system/ChunkStorageC.nc: In function `Serialize.checkpoint':
+../../tos/system/ChunkStorageC.nc:737: interface has no command or event named `string'
+../../tos/system/ChunkStorageC.nc:738: interface has no command or event named `decimal'
+../../tos/system/ChunkStorageC.nc:741: interface has no command or event named `string'
+../../tos/system/ChunkStorageC.nc: In function `Serialize.restore':
+../../tos/system/ChunkStorageC.nc:761: interface has no command or event named `string'
+../../tos/system/ChunkStorageC.nc:762: interface has no command or event named `decimal'
+../../tos/system/ChunkStorageC.nc:765: interface has no command or event named `string'
+../../tos/system/StackC.nc: In function `Stack.push':
+../../tos/system/StackC.nc:87: interface has no command or event named `string'
+../../tos/system/StackC.nc: In function `ChunkStorage.writeDone':
+../../tos/system/StackC.nc:122: interface has no command or event named `string'
+../../tos/system/StackC.nc:123: interface has no command or event named `decimal'
+../../tos/system/StackC.nc:125: interface has no command or event named `string'
+../../tos/system/StackC.nc:126: interface has no command or event named `decimal'
+../../tos/system/StackC.nc:128: interface has no command or event named `string'
+../../tos/system/StackC.nc:129: interface has no command or event named `decimal'
+../../tos/system/StackC.nc:130: interface has no command or event named `string'
+../../tos/system/StackC.nc: In function `Stack.pop':
+../../tos/system/StackC.nc:147: interface has no command or event named `string'
+../../tos/system/StackC.nc:154: interface has no command or event named `string'
+../../tos/system/StackC.nc:155: interface has no command or event named `string'
+../../tos/system/StackC.nc:156: interface has no command or event named `decimal'
+../../tos/system/StackC.nc:157: interface has no command or event named `string'
+../../tos/system/StackC.nc:158: interface has no command or event named `decimal'
+../../tos/system/StackC.nc:159: interface has no command or event named `string'
+../../tos/system/StackC.nc:160: interface has no command or event named `decimal'
+../../tos/system/StackC.nc:162: interface has no command or event named `string'
+../../tos/system/StackC.nc:170: interface has no command or event named `string'
+../../tos/system/StackC.nc: In function `ChunkStorage.readDone':
+../../tos/system/StackC.nc:193: interface has no command or event named `string'
+../../tos/system/StackC.nc:194: interface has no command or event named `decimal'
+../../tos/system/StackC.nc:195: interface has no command or event named `string'
+../../tos/system/StackC.nc: In function `Stack.top':
+../../tos/system/StackC.nc:214: interface has no command or event named `string'
+../../tos/system/StackC.nc: In function `Serialize.checkpoint':
+../../tos/system/StackC.nc:233: interface has no command or event named `string'
+../../tos/system/StackC.nc:234: interface has no command or event named `decimal'
+../../tos/system/StackC.nc:235: interface has no command or event named `string'
+../../tos/system/StackC.nc:236: interface has no command or event named `decimal'
+../../tos/system/StackC.nc:237: interface has no command or event named `string'
+../../tos/system/StackC.nc:238: interface has no command or event named `decimal'
+../../tos/system/StackC.nc:239: interface has no command or event named `string'
+../../tos/system/StackC.nc: In function `Serialize.restore':
+../../tos/system/StackC.nc:255: interface has no command or event named `string'
+../../tos/system/StackC.nc:256: interface has no command or event named `decimal'
+../../tos/system/StackC.nc:257: interface has no command or event named `string'
+../../tos/system/StackC.nc:258: interface has no command or event named `decimal'
+../../tos/system/StackC.nc:259: interface has no command or event named `string'
+../../tos/system/StackC.nc:260: interface has no command or event named `decimal'
+../../tos/system/StackC.nc:261: interface has no command or event named `string'
+../../tos/system/StackC.nc: In function `RootPtrAccess.setPtr':
+../../tos/system/StackC.nc:271: interface has no command or event named `string'
+../../tos/system/StackC.nc:272: interface has no command or event named `decimal'
+../../tos/system/StackC.nc:273: interface has no command or event named `string'
+../../tos/system/StackC.nc:274: interface has no command or event named `decimal'
+../../tos/system/StackC.nc:275: interface has no command or event named `string'
+../../tos/system/StackC.nc: In function `RootPtrAccess.getPtr':
+../../tos/system/StackC.nc:287: interface has no command or event named `string'
+../../tos/system/StackC.nc:288: interface has no command or event named `decimal'
+../../tos/system/StackC.nc:289: interface has no command or event named `string'
+../../tos/system/StackC.nc:290: interface has no command or event named `decimal'
+../../tos/system/StackC.nc:291: interface has no command or event named `string'
+StressTest.nc: At top level:
+StressTest.nc:12: component Crc8C not found
+../../tos/system/StreamC.nc: In function `Stream.append':
+../../tos/system/StreamC.nc:101: interface has no command or event named `string'
+../../tos/system/StreamC.nc: In function `Stream.next':
+../../tos/system/StreamC.nc:162: interface has no command or event named `string'
+../../tos/system/StreamC.nc:169: interface has no command or event named `string'
+../../tos/system/StreamC.nc:170: interface has no command or event named `decimal'
+../../tos/system/StreamC.nc:171: interface has no command or event named `string'
+../../tos/system/StreamC.nc:172: interface has no command or event named `decimal'
+../../tos/system/StreamC.nc:173: interface has no command or event named `string'
+../../tos/system/StreamC.nc:182: interface has no command or event named `string'
+../../tos/system/StreamC.nc: In function `Serialize.checkpoint':
+../../tos/system/StreamC.nc:257: interface has no command or event named `string'
+../../tos/system/StreamC.nc:258: interface has no command or event named `decimal'
+../../tos/system/StreamC.nc:259: interface has no command or event named `string'
+../../tos/system/StreamC.nc:260: interface has no command or event named `decimal'
+../../tos/system/StreamC.nc:261: interface has no command or event named `string'
+../../tos/system/StreamC.nc:262: interface has no command or event named `decimal'
+../../tos/system/StreamC.nc:263: interface has no command or event named `string'
+../../tos/system/StreamC.nc: In function `Serialize.restore':
+../../tos/system/StreamC.nc:279: interface has no command or event named `string'
+../../tos/system/StreamC.nc:280: interface has no command or event named `decimal'
+../../tos/system/StreamC.nc:281: interface has no command or event named `string'
+../../tos/system/StreamC.nc:282: interface has no command or event named `decimal'
+../../tos/system/StreamC.nc:283: interface has no command or event named `string'
+../../tos/system/StreamC.nc:284: interface has no command or event named `decimal'
+../../tos/system/StreamC.nc:285: interface has no command or event named `string'
+../../tos/system/CheckpointC.nc: In function `rollBack':
+../../tos/system/CheckpointC.nc:130: interface has no command or event named `string'
+../../tos/system/CheckpointC.nc: In function `Checkpoint.rollback':
+../../tos/system/CheckpointC.nc:146: interface has no command or event named `string'
+../../tos/system/CheckpointC.nc: In function `RootDirectory.getRootDone':
+../../tos/system/CheckpointC.nc:187: interface has no command or event named `string'
+../../tos/system/CheckpointC.nc: In function `Stack.popDone':
+../../tos/system/CheckpointC.nc:227: interface has no command or event named `string'
+../../tos/system/CheckpointC.nc: In function `Checkpoint.checkpoint':
+../../tos/system/CheckpointC.nc:242: interface has no command or event named `string'
+../../tos/system/CheckpointC.nc:253: interface has no command or event named `string'
+../../tos/system/CheckpointC.nc: In function `saveData':
+../../tos/system/CheckpointC.nc:294: interface has no command or event named `string'
+../../tos/system/CheckpointC.nc:295: interface has no command or event named `decimal'
+../../tos/system/CheckpointC.nc:296: interface has no command or event named `string'
+../../tos/system/CheckpointC.nc: In function `Stack.pushDone':
+../../tos/system/CheckpointC.nc:309: interface has no command or event named `string'
+../../tos/system/CheckpointC.nc:320: interface has no command or event named `string'
+../../tos/system/CheckpointC.nc: In function `ChunkStorage.flushDone':
+../../tos/system/CheckpointC.nc:332: interface has no command or event named `string'
+../../tos/system/CheckpointC.nc:343: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc: In function `recoverRoot':
+../../tos/system/RootDirectoryC.nc:106: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc:107: interface has no command or event named `decimal'
+../../tos/system/RootDirectoryC.nc:108: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc:109: interface has no command or event named `decimal'
+../../tos/system/RootDirectoryC.nc:110: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc:119: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc:120: interface has no command or event named `decimal'
+../../tos/system/RootDirectoryC.nc:121: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc:122: interface has no command or event named `decimal'
+../../tos/system/RootDirectoryC.nc:123: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc: In function `RootDirectory.init':
+../../tos/system/RootDirectoryC.nc:135: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc:136: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc: In function `GenericFlash.readDone':
+../../tos/system/RootDirectoryC.nc:166: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc:167: interface has no command or event named `decimal'
+../../tos/system/RootDirectoryC.nc:168: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc:169: interface has no command or event named `decimal'
+../../tos/system/RootDirectoryC.nc:170: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc:171: interface has no command or event named `decimal'
+../../tos/system/RootDirectoryC.nc:172: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc: In function `RootDirectory.setRoot':
+../../tos/system/RootDirectoryC.nc:281: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc:282: interface has no command or event named `decimal'
+../../tos/system/RootDirectoryC.nc:283: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc:284: interface has no command or event named `decimal'
+../../tos/system/RootDirectoryC.nc:285: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc: In function `GenericFlash.writeDone':
+../../tos/system/RootDirectoryC.nc:301: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc:303: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc:305: interface has no command or event named `decimal'
+../../tos/system/RootDirectoryC.nc:306: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc:307: interface has no command or event named `decimal'
+../../tos/system/RootDirectoryC.nc:308: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc:330: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc:331: interface has no command or event named `decimal'
+../../tos/system/RootDirectoryC.nc:332: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc: In function `eraser':
+../../tos/system/RootDirectoryC.nc:352: interface has no command or event named `string'
+../../tos/system/RootDirectoryC.nc:353: interface has no command or event named `decimal'
+../../tos/system/RootDirectoryC.nc:354: interface has no command or event named `string'
+StressTest.nc: At top level:
+StressTest.nc:23: cannot find `Crc8'
+StressTest.nc:41: cannot find `HPLUART'
+make: *** [exe0] Error 1

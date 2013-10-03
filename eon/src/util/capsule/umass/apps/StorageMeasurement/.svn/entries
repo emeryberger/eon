@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="213"
+   name=""
+   committed-date="2007-11-13T18:47:18.206939Z"
+   url="svn+ssh://sorber@prisms.cs.umass.edu:/svn2/sorber/svn-root/eflux/release/eon-0.3/eon/src/util/capsule/umass/apps/StorageMeasurement"
+   last-author="sorber"
+   kind="dir"
+   uuid="e10c54a3-b31f-0410-8957-ce4572528410"
+   revision="213"/>
+<entry
+   committed-rev="213"
+   name="sizes.h"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="f2acf6c0e6cf492002f9f25e0f9a6b52"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="Measurement.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="bd14d56ee71de45150f8cf93ffaf8edb"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="MeasurementC.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="9f83296549ddae762adcf717799d80d7"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="TestNandBasicFS.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="736cc294f1012123e403235d747b661a"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="TelosMeasurement.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="8d878ffb31ec84955cc8a83a1a8f48b9"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="Makefile"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="0ef1d514f9eecae598e00b9deea1af36"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="TestNandBasicFSC.nc"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="3c5d56e85671e0c8fb9679979b82ea81"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+</wc-entries>

@@ -1,0 +1,48 @@
+
+
+platform tinynode:
+
+//Node definition	
+//Capture flow	
+	FrameTimer() => ();
+	FrameFlow() => ();
+	CaptureFrame() => (frame_ptr_t frame);
+	HandleFrame(frame_ptr_t frame) => ();
+	SendFrame(frame_ptr_t frame) => (frame_ptr_t frame);
+	StoreFrame(frame_ptr_t frame) => ();
+
+//Listen flow	
+	ListenRequest() => (uint16_t addr, uint8_t frame, uint8_t page);
+	ListenRequestFlow(uint16_t addr, uint8_t frame, uint8_t page) => ();
+	FetchPage(uint16_t addr, uint8_t frame, uint8_t page) => (uint16_t addr, uint8_t frame, uint8_t page, page_ptr_t pagedata);
+	SendPage(uint16_t addr, uint8_t frame, uint8_t page, page_ptr_t pagedata) => ();
+	SendNACK(uint16_t addr, uint8_t frame, uint8_t page) => ();
+	
+	
+//Required for compilation	
+	stateorder {StreamFrames, 
+				QueryRespond};
+	
+//Sources	
+	source timer FrameTimer => FrameFlow;
+	source ListenRequest => ListenRequestFlow;
+	
+	
+	
+//Flows	
+	
+	FrameFlow = CaptureFrame -> HandleFrame;
+	HandleFrame:[*][StreamFrames] = SendFrame -> StoreFrame;
+	HandleFrame:[*][*] = StoreFrame;
+	
+	ListenRequestFlow:[*,*,*][QueryRespond] = FetchPage -> SendPage;
+	ListenRequestFlow:[*,*,*][*] = SendNACK;
+	
+	//FrameTimer:[StreamFrames] = (1 min, 15 min);
+	//FrameTimer:[QueryRespond] = (15 min, 1 hr);
+	//FrameTimer:[*] = (1 hr, 3 hr);
+	
+	FrameTimer:[StreamFrames] = (1 min, 1 min);
+	FrameTimer:[QueryRespond] = (1 min, 1 min);
+	FrameTimer:[*] = (1 min, 1 min);
+	

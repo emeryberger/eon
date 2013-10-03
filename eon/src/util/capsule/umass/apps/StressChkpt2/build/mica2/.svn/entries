@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="213"
+   name=""
+   committed-date="2007-11-13T18:47:18.206939Z"
+   url="svn+ssh://sorber@prisms.cs.umass.edu:/svn2/sorber/svn-root/eflux/release/eon-0.3/eon/src/util/capsule/umass/apps/StressChkpt2/build/mica2"
+   last-author="sorber"
+   kind="dir"
+   uuid="e10c54a3-b31f-0410-8957-ce4572528410"
+   revision="213"/>
+<entry
+   committed-rev="213"
+   name="main.srec"
+   text-time="2007-11-13T18:46:29.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="dbaf9291c6e4fca1bf9218dec6d4dd0d"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:28.000000Z"/>
+<entry
+   committed-rev="213"
+   name="main.ihex"
+   text-time="2007-11-13T18:46:29.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="6a8c53fcf0aa53d772eefa2b4215433a"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="app.c"
+   text-time="2007-11-13T18:46:29.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="17735a96bc9c5df5b73154c777e95c3e"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="main.exe"
+   text-time="2007-11-13T18:46:29.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="8b767bd03cf195a86524ad50b0ff3fdf"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:28.000000Z"/>
+<entry
+   committed-rev="213"
+   name="tos_image.xml"
+   text-time="2007-11-13T18:46:29.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="1c2829bc1274795ab72a1bd59dd31bb5"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+<entry
+   committed-rev="213"
+   name="ident_flags.txt"
+   text-time="2007-11-13T18:46:29.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="87d643bd56e557d936287b79dd6002d6"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:54.000000Z"/>
+</wc-entries>

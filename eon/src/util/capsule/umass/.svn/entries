@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="213"
+   name=""
+   committed-date="2007-11-13T18:47:18.206939Z"
+   url="svn+ssh://sorber@prisms.cs.umass.edu:/svn2/sorber/svn-root/eflux/release/eon-0.3/eon/src/util/capsule/umass"
+   last-author="sorber"
+   kind="dir"
+   uuid="e10c54a3-b31f-0410-8957-ce4572528410"
+   revision="213"/>
+<entry
+   committed-rev="213"
+   name="cleardirs.py"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="9a713088e30c4e3d0bf2985df5e68e8e"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:26.000000Z"/>
+<entry
+   name="apps"
+   kind="dir"/>
+<entry
+   name="tos"
+   kind="dir"/>
+<entry
+   committed-rev="213"
+   name="README"
+   text-time="2007-11-13T18:46:30.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="f632e5d360e00bd63084fda0e1cfb50d"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:55.000000Z"/>
+</wc-entries>

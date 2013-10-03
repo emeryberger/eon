@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="213"
+   name=""
+   committed-date="2007-11-13T18:47:18.206939Z"
+   url="svn+ssh://sorber@prisms.cs.umass.edu:/svn2/sorber/svn-root/eflux/release/eon-0.3/eon/doc/sigstyle"
+   last-author="sorber"
+   kind="dir"
+   uuid="e10c54a3-b31f-0410-8957-ce4572528410"
+   revision="213"/>
+<entry
+   committed-rev="213"
+   name="sigproc.bib"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="710bc6413b10c88893c9d2f0d955bb94"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sigproc-sp.aux"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="54e006c987dc94c1177599a74beca9a5"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sigproc-sp.tex"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="50dc02997dafcd36c9e85a72d5595d84"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="acm_proc_article-sp.cls"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="92a211f1d3a1a49679c72d7ef225990c"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sigproc-sp.log"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="4382ae7de98ec0b97e0fc6e57e9179e6"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sigproc-sp.dvi"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="23af4268e603d61cca7c4d8687d739a2"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:24.000000Z"/>
+<entry
+   committed-rev="213"
+   name="flies.eps"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="88803cd973afa2fd9f463c67eb25cbf6"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:46.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sigproc-sp.pdf"
+   text-time="2007-11-13T18:46:24.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="2e7d9a1ace5049981d79670cc3c4dbf7"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-11-13T18:46:24.000000Z"/>
+</wc-entries>

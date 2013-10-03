@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="213"
+   name=""
+   committed-date="2007-11-13T18:47:18.206939Z"
+   url="svn+ssh://sorber@prisms.cs.umass.edu:/svn2/sorber/svn-root/eflux/release/eon-0.3/eon/src/runtime/stargate/sfaccess"
+   last-author="sorber"
+   kind="dir"
+   uuid="e10c54a3-b31f-0410-8957-ce4572528410"
+   revision="213"/>
+<entry
+   committed-rev="213"
+   name="sfsource.h"
+   text-time="2007-11-13T18:46:25.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="04252f4a09bcd2971d1dfd7221933382"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:53.000000Z"/>
+<entry
+   committed-rev="213"
+   name="tinystream.c"
+   text-time="2007-11-13T18:46:25.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="c87139293b281cf49e0e559b4ded2735"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:53.000000Z"/>
+<entry
+   committed-rev="213"
+   name="teloscomm.c"
+   text-time="2007-11-13T18:46:25.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="2895ee0301de15c267cbb25fbd7cd797"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:53.000000Z"/>
+<entry
+   committed-rev="213"
+   name="tinystream.h"
+   text-time="2007-11-13T18:46:25.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="d81b2b179d1ea1fa3ea4b2da62b196cb"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:53.000000Z"/>
+<entry
+   committed-rev="213"
+   name="teloscomm.h"
+   text-time="2007-11-13T18:46:25.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="21a6cf3c2995d7a882b0d93f9b556740"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:53.000000Z"/>
+<entry
+   committed-rev="213"
+   name="telossource.c"
+   text-time="2007-11-13T18:46:25.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="25cf5cf8778bf03c3b600b59e438c9a5"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:53.000000Z"/>
+<entry
+   committed-rev="213"
+   name="telossource.h"
+   text-time="2007-11-13T18:46:25.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="9c32886907e1780f5f2d746d608beef9"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:53.000000Z"/>
+<entry
+   committed-rev="213"
+   name="testtinyrely.c"
+   text-time="2007-11-13T18:46:25.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="043ac69817a2b041aa39326ce3c0fcf4"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:53.000000Z"/>
+<entry
+   committed-rev="213"
+   name="tinyrely.c"
+   text-time="2007-11-13T18:46:25.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="ef8fd9abf146b1bd159946b053c1d1a0"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:53.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sfsend.c"
+   text-time="2007-11-13T18:46:25.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="15d042d1bed2d9fe88d7792a005c643d"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:53.000000Z"/>
+<entry
+   committed-rev="213"
+   name="Semaphore.c"
+   text-time="2007-11-13T18:46:25.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="15b366c4e93d1547f19d8c620ce32c1f"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:53.000000Z"/>
+<entry
+   committed-rev="213"
+   name="platform.c"
+   text-time="2007-11-13T18:46:25.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="0c36d41f91045b70269d5c5597229ee6"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:53.000000Z"/>
+<entry
+   committed-rev="213"
+   name="tinyrely.h"
+   text-time="2007-11-13T18:46:25.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="1d70985f2407ac3af42834ef63da5bf9"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:53.000000Z"/>
+<entry
+   committed-rev="213"
+   name="Semaphore.h"
+   text-time="2007-11-13T18:46:25.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="c9b052a9fa8f02d3efc639dc3a753816"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:53.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sfsource.c"
+   text-time="2007-11-13T18:46:25.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="ef368227ae5454d7cbebb2ef980f1d08"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:53.000000Z"/>
+<entry
+   committed-rev="213"
+   name="platform.h"
+   text-time="2007-11-13T18:46:25.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="cea86e01c9122ed6cc9a3a47a5667b1d"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:53.000000Z"/>
+<entry
+   committed-rev="213"
+   name="sfaccess.c"
+   text-time="2007-11-13T18:46:25.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="ebc5d89ce4089d4b615ffe97fda7dc37"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:53.000000Z"/>
+<entry
+   committed-rev="213"
+   name="Makefile"
+   text-time="2007-11-13T18:46:25.000000Z"
+   committed-date="2007-11-13T18:47:18.206939Z"
+   checksum="decfd11e106fb15f06c797d9e8fa24c8"
+   last-author="sorber"
+   kind="file"
+   prop-time="2007-09-07T19:43:53.000000Z"/>
+</wc-entries>
